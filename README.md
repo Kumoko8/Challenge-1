@@ -9,4 +9,4 @@ The purpose of this assignment is to practice using semantic HTML which makes we
 # Screenshots
 
 Here is a screenshot of the finished webpage product:
-Homework/Screen Shot 2023-04-29 at 4.28.40 PM.png
+(./Homework/Screen Shot 2023-04-29 at 4.28.40 PM.png)
