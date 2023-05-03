@@ -7,6 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
+/*-- HEADER ELEMENTS/--*/
 
 .header {
     padding: 20px;
@@ -45,7 +46,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*--CONTENT SECTION ELEMENTS--*/
 .hero {
     height: 800px;
     width: 100%;
@@ -91,7 +92,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/*--BENEFITS SECTION ELEMENTS--*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -118,7 +119,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*--FOOTER ELEMENTS--*/
 .footer {
     padding: 30px;
     clear: both;
